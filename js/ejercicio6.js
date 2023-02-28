@@ -8,5 +8,5 @@ if(numero1>numero2){
 else if(numero1<numero2){
     document.write("El segundo número es mayor.");
 } else{
-    document.write("Ambos números son iguales.")
+    document.write("Ambos números son iguales.");
 }
